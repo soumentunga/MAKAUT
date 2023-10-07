@@ -1,7 +1,7 @@
 /* Set a background image for the entire page */
 body {
     font-family: Arial, sans-serif;
-    background-image: url('college image.jpeg'); /* Replace 'background.jpg' with your image file path */
+    background-image: url('college image.jpeg'); 
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
