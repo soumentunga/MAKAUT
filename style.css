@@ -1,7 +1,10 @@
 /* Set a background image for the entire page */
 body {
     font-family: Arial, sans-serif;
-    background-image: url('college image.jpeg'); 
+    background-image: url('Makaut.jpeg'); 
+    Makaut.jpeg {
+        height: auto;
+        width: auto;}
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
